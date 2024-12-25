@@ -1,0 +1,10 @@
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\bin\Debug\SerialPortChatPrg.exe.config
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\bin\Debug\SerialPortChatPrg.exe
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\bin\Debug\SerialPortChatPrg.pdb
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\obj\Debug\SerialPortChatPrg.csproj.AssemblyReference.cache
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\obj\Debug\SerialPortChatPrg.Form1.resources
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\obj\Debug\SerialPortChatPrg.Properties.Resources.resources
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\obj\Debug\SerialPortChatPrg.csproj.GenerateResource.cache
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\obj\Debug\SerialPortChatPrg.csproj.CoreCompileInputs.cache
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\obj\Debug\SerialPortChatPrg.exe
+C:\Users\Bora\Source\Repos\SerialPortChatPrg\SerialPortChatPrg\obj\Debug\SerialPortChatPrg.pdb
